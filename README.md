@@ -7,7 +7,7 @@ Is the much less complicated version of [zipline-simulation](https://github.com/
 
 The SOP document has it's two first pages removed for privacy concerns...
 
-The abstract wrtten goes as follows:
+The abstract written goes as follows:
 ```
 Gennem Lagranges formalisme undersøges bevægelsen i svævebaner,
 med hvilket der udvikles modeller der tager hensyn til luftmodstandskraft,
